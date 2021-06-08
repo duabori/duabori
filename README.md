@@ -9,7 +9,7 @@ Hello, I'm Jihyo Park, a passionate self-taught iOS developer from south korea.
 <li> :seedling: I love swimming, reading and playing with dog!
 <p>
   </p>
-:dizzy: Experience
+:dizzy: <b>Experience<b>
 <li>42seoul La piscine (21.02.15 ~ 21.03.19)
 
 
