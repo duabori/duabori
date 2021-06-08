@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there👋
 
-<!--
-**duabori/duabori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Jihyo Park, a passionate self-taught iOS developer from south korea.
 
-Here are some ideas to get you started:
+<li> :woman_technologist: I'm currently learning app deveolopment and C++. 
+<li> :seedling: I love swimming, reading and playing with dog!
+<p>
+:dizzy: Experience
+<li>42seoul la piscine (21.02.15 ~ 21.03.19)
+<p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
