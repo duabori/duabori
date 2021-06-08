@@ -10,7 +10,7 @@ Hello, I'm Jihyo Park, a passionate self-taught iOS developer from south korea.
 <p>
   </p>
 :dizzy: Experience
-<li>42seoul la piscine (21.02.15 ~ 21.03.19)
+<li>42seoul La piscine (21.02.15 ~ 21.03.19)
 
 
   
