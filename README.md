@@ -1,7 +1,7 @@
 ### Hi there👋
 <p>
  </p>
-Hello, I'm Jihyo Park, a passionate self-taught iOS developer from south korea.
+Hello, I'm Jihyo Park, a student studying ios development from south korea.
 <p>
  </p>
 
