@@ -5,7 +5,7 @@ Hello, I'm Jihyo Park, a student studying programming from south korea.
 <p>
  </p>
 
-<li> :woman_technologist: I'm currently learning iOS deveolopment and C++. 
+<li> :woman_technologist: I'm currently learning iOS development and C++. 
 <li> :seedling: I love swimming, reading and playing with dog!
 <p>
   </p>
