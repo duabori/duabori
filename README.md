@@ -1,5 +1,6 @@
 ### Hi there👋
-<hr>
+<p>
+ </p>
 Hello, I'm Jihyo Park, a passionate self-taught iOS developer from south korea.
 <p>
  </p>
