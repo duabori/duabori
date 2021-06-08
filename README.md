@@ -1,7 +1,7 @@
 ### Hi there👋
 <p>
  </p>
-Hello, I'm Jihyo Park, a passionate self-taught programming from south korea.
+Hello, I'm Jihyo Park, a passionate self-taught iOS developer from south korea.
 <p>
  </p>
 
